@@ -3,14 +3,14 @@ package com.zeros.algo.collections;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class BTree {
+public class BinaryTree {
     private TreeNode root;
 
-    public BTree(){
+    public BinaryTree(){
 
     }
 
-    public BTree(int[] arrayInit){
+    public BinaryTree(int[] arrayInit){
         for(int i= 0;i <arrayInit.length; i++){
             insert(arrayInit[i]);
         }
@@ -131,7 +131,7 @@ public class BTree {
 
 ///////////////////////////////////////////////////////////////////////////////////////
     public static void run(){
-        BTree tree = new BTree(new int[]{5,2,8,1,3,7,9});
+        BinaryTree tree = new BinaryTree(new int[]{5,2,8,1,3,7,9});
         /*
                 5
             2      8

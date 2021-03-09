@@ -1,9 +1,6 @@
 package com.zeros.algo.collections;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
-public class BST extends BTree{
+public class BST extends BinaryTree {
 
     private TreeNode root;
     BST(){
