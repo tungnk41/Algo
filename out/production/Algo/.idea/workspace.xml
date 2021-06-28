@@ -9,25 +9,25 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Timer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue$StringComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue$StringComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Timer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue$StringComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie$TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/leetcode/LeetCode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/leetcode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/LowerBound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/LowerBound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/UpperBound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/UpperBound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/LowerBound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/UpperBound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/QuickSort.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zeros/algo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/leetcode/LeetCode.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/leetcode/Solution.java" beforeDir="false" />
@@ -117,10 +117,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.2592955" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="LeetCode" type="Application" factoryName="Application" nameIsGenerated="true">

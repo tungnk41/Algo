@@ -1,5 +1,7 @@
 package com.zeros.algo.sort;
 
+import java.util.Arrays;
+
 public class QuickSort {
 
     /*
@@ -13,33 +15,43 @@ public class QuickSort {
     Not stable
 
      */
+
+    private static void swap(int[] array, int x, int y){
+        int temp = array[x];
+        array[x]= array[y];
+        array[y] = temp;
+    }
+
     private static int partition(int[] array, int left, int right){
-        int pivot = array[right];
+        int pivot = left + (right-left)/2;
+        int temp = 0;
+        int first_high = left;
+
+        //Swap pivot value to right
+        swap(array,pivot,right);
 
         for(int i= left; i<right;i++){
-            if(array[i]<pivot){
-                int temp = array[left];
-                array[left] = array[i];
+            if(array[i]<array[right]){
+                temp = array[first_high];
+                array[first_high] = array[i];
                 array[i] = temp;
-                left++;
+                first_high++;
             }
         }
-        int temp = array[left];
-        array[left] = array[right];
-        array[right] = temp;
 
-        return left;
+        swap(array,first_high,right);
+
+        return first_high;
     }
 
     private static int[] sort(int[] array, int left, int right){
-        int partition = partition(array,left,right);
+        if(left >= right){ //array size <= 1
+            return array;
+        }
 
-        if(partition - 1 > left){
-            sort(array,left,partition-1);
-        }
-        if (partition + 1 < right){
-            sort(array,partition+1,right);
-        }
+        int partition = partition(array,left,right);
+        sort(array,left,partition-1);
+        sort(array,partition+1,right);
 
         return array;
     }

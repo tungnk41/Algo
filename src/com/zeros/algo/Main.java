@@ -1,27 +1,27 @@
 package com.zeros.algo;
 import com.zeros.algo.collections.*;
+import com.zeros.algo.sort.QuickSort;
 
 
 public class Main {
 
     public static void main(String[] args) {
         Timer.start();
-        /* Sort & search
-	    int[] array = {10,20,20,20,20,30,30,40};
+        //Sort & search
+	    int[] array = {1,2,3,4,5,6,7,8,-1,-2};
 
 	    for(int i : QuickSort.sort(array)){
 	        System.out.print(i + " ");
         }
 
-	    System.out.println(" \nB search : " + LowerBound.search(array,70));
-        System.out.println(" \nB search : " + UpperBound.search(array,70));
-        */
+	    // System.out.println(" \nB search : " + LowerBound.search(array,70));
+        // System.out.println(" \nB search : " + UpperBound.search(array,70));
 
 
-        /*Custome Priority Queue
-        JPriorityQueue queue = new JPriorityQueue();
-        queue.run();
-        */
+        //Custome Priority Queue
+        // JPriorityQueue queue = new JPriorityQueue();
+        // queue.run();
+
 
 //        BinaryTree tree = new BinaryTree();
 //        tree.run();
@@ -30,7 +30,7 @@ public class Main {
 
 //        Trie.run();
 
-        BST.run();
+        // BST.run();
         Timer.stop();
     }
 }
