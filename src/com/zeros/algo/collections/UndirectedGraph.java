@@ -1,15 +1,12 @@
 package com.zeros.algo.collections;
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
-public class Graph {
+public class UndirectedGraph {
     private int V; //Number vertex
     private List<List<Integer>> adjList;
 
-    public Graph(List<List<Integer>> adjList){
+    public UndirectedGraph(List<List<Integer>> adjList){
         this.adjList = adjList;
         V = adjList.size();
     }
@@ -73,7 +70,7 @@ public class Graph {
                 Arrays.asList(2,3,5),
                 Arrays.asList(3,4)
         );
-        Graph graph = new Graph(adjList);
+        UndirectedGraph graph = new UndirectedGraph(adjList);
         graph.bfs(0,3);
     }
 }

@@ -1,7 +1,5 @@
 package com.zeros.algo.sort;
 
-import java.util.Arrays;
-
 public class QuickSort {
 
     /*

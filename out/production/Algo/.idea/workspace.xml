@@ -5,32 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65a72832-a48c-4a7f-92b7-22974cd4d540" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeros/algo/collections/DirectedGraph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeros/algo/collections/UndirectedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Timer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue$StringComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/leetcode/LeetCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/leetcode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/LowerBound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/UpperBound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/QuickSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zeros/algo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/leetcode/LeetCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/leetcode/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/collections/Graph.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zeros/algo/sort/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -117,29 +105,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.2592955" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.side.proportion" value="0.43915343" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LeetCode" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeros.algo.leetcode.LeetCode" />
-      <module name="Algo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zeros.algo.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.zeros.algo.Main" />
       <module name="Algo" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
