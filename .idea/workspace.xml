@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65a72832-a48c-4a7f-92b7-22974cd4d540" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zeros/algo/collections/DirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zeros/algo/collections/UndirectedGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeros/algo/algo/greedy/Greedy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/Algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/Timer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue$StringComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue$StringComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/JPriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/collections/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/LowerBound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/LowerBound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/UpperBound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/search/UpperBound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/com/zeros/algo/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zeros/algo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/collections/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zeros/algo/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zeros/algo/sort/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +107,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.2592955" />
     <property name="project.structure.side.proportion" value="0.43915343" />
-    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
