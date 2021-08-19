@@ -21,7 +21,7 @@ public class Main {
 
 
 //        Custom Priority Queue
-//        PriorityQueueEx.run();
+        PriorityQueueEx.run();
 
 //        tree.run();
 
@@ -33,7 +33,7 @@ public class Main {
 
 //        DirectedGraph.run();
 
-        BloomFilterEx.run();
+//        BloomFilterEx.run();
         Timer.stop();
     }
 }

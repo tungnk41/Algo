@@ -9,8 +9,8 @@
         <module name="Algo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
-      <module name="Algo" target="11" />
+    <bytecodeTargetLevel target="16">
+      <module name="Algo" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>

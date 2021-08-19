@@ -5,9 +5,7 @@ import java.util.PriorityQueue;
 public class PriorityQueueEx {
     PriorityQueue<Integer> intQueue;
     PriorityQueue<String> strQueue;
-    Comparator<String> strComparator;
     public PriorityQueueEx(){
-        strComparator = new StringComparator();
 
         /*
         * a : item need add to queue
@@ -17,8 +15,19 @@ public class PriorityQueueEx {
         *
         * */
         intQueue = new PriorityQueue<>((a,b) -> b-a);
-        strQueue = new PriorityQueue<>(strComparator);
-
+        strQueue = new PriorityQueue<>(new Comparator<String>() {
+            @Override
+            public int compare(String s1, String s2) {
+                //Min queue
+                if(s1.length() > s2.length()){
+                    return 1;
+                }
+                if(s1.length() < s2.length()) {
+                    return -1;
+                }
+                return 0;
+            }
+        });
     }
 
     public static void run(){
@@ -36,18 +45,4 @@ public class PriorityQueueEx {
 
     }
 
-    private class StringComparator implements Comparator<String> {
-
-        @Override
-        public int compare(String s1, String s2) {
-            //Min queue
-            if(s1.length() > s2.length()){
-                return 1;
-            }
-            if(s1.length() < s2.length()) {
-                return -1;
-            }
-            return 0;
-        }
-    }
 }
