@@ -5,80 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65a72832-a48c-4a7f-92b7-22974cd4d540" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/META-INF/Algo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/META-INF/Algo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/algo/greedy/Greedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/algo/greedy/Greedy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/BloomFilterEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/BloomFilterEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/DirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/DirectedGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/PriorityQueueEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/PriorityQueueEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/UndirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/collections/UndirectedGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/search/LowerBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/search/LowerBound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/search/UpperBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/search/UpperBound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/Timer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/algo/greedy/Greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/algo/greedy/Greedy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/BloomFilterEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/BloomFilterEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/DirectedGraph$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/DirectedGraph$Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/DirectedGraph$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/DirectedGraph$Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/DirectedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/DirectedGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/PriorityQueueEx$StringComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/PriorityQueueEx$StringComparator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/PriorityQueueEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/PriorityQueueEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/Trie$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/Trie$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/UndirectedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/collections/UndirectedGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/search/LowerBound.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/search/LowerBound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/search/UpperBound.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/search/UpperBound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/sort/QuickSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
