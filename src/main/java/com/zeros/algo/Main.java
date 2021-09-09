@@ -4,6 +4,7 @@ import com.zeros.algo.collections.*;
 import com.zeros.algo.search.LowerBound;
 import com.zeros.algo.search.UpperBound;
 import com.zeros.algo.sort.QuickSort;
+import com.zeros.algo.sort.TopoSort;
 
 
 public class Main {
@@ -21,7 +22,7 @@ public class Main {
 
 
 //        Custom Priority Queue
-        PriorityQueueEx.run();
+//        PriorityQueueEx.run();
 
 //        tree.run();
 
@@ -34,6 +35,9 @@ public class Main {
 //        DirectedGraph.run();
 
 //        BloomFilterEx.run();
+
+//        DSU.run();
+        TopoSort.run();
         Timer.stop();
     }
 }
