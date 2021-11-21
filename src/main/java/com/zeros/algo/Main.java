@@ -1,10 +1,5 @@
 package com.zeros.algo;
-import com.zeros.algo.*;
 import com.zeros.algo.collections.*;
-import com.zeros.algo.search.LowerBound;
-import com.zeros.algo.search.UpperBound;
-import com.zeros.algo.sort.QuickSort;
-
 
 public class Main {
 
