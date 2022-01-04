@@ -4,7 +4,7 @@ import java.util.*;
 
 public class DirectedGraph {
 
-    private Map<String,Vertex> graph;
+    private Map<String,Vertex> graph;  //Vertex Name  - Vertex
 
     public static class Edge{
         private String source;
@@ -22,7 +22,7 @@ public class DirectedGraph {
         public String name;
         public Vertex parent = null;
         public int shortestDist = Integer.MAX_VALUE;
-        public Map<Vertex,Integer> neighbours = new HashMap<>();
+        public Map<Vertex,Integer> neighbours = new HashMap<>(); //Vertex - Distance
 
         public Vertex(String name){
             this.name = name;
@@ -34,6 +34,14 @@ public class DirectedGraph {
                 return name.compareTo(other.name);
             }
             return Integer.compare(shortestDist,other.shortestDist);
+        }
+
+        public List<String> exportNeighboursByName(){
+            List<String> neighboursName = new ArrayList<>();
+            for(Map.Entry<Vertex,Integer> neighbour : neighbours.entrySet()){
+                neighboursName.add(neighbour.getKey().name);
+            }
+            return neighboursName;
         }
 
         public void printPath(){
@@ -97,9 +105,16 @@ public class DirectedGraph {
             visited.add(current);
         }
 
-
         System.out.println(graph.get(end).shortestDist);
         graph.get(end).printPath();
+    }
+
+    public Map<String,List<String>> exportGraphByName(){
+        Map<String,List<String>> graphByName = new HashMap<>();
+        for (Map.Entry<String, DirectedGraph.Vertex> entry : graph.entrySet()){
+            graphByName.put(entry.getKey(), entry.getValue().exportNeighboursByName());
+        }
+        return graphByName;
     }
 
 
