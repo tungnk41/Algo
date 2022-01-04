@@ -6,8 +6,6 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Greedy {
-
-
     public static void SetCovering(){
          /*
         Problem : find  smallest statations cam cover almost province in list

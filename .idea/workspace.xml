@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65a72832-a48c-4a7f-92b7-22974cd4d540" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/algo/RabinKarp/RabinKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeros/algo/algo/greedy/Greedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeros/algo/algo/greedy/Greedy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/Timer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zeros/algo/algo/greedy/Greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeros/algo/algo/greedy/Greedy.class" afterDir="false" />
@@ -118,6 +118,7 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -126,12 +127,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.2592955" />
     <property name="project.structure.side.proportion" value="0.43915343" />
-    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
@@ -146,7 +150,7 @@
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="false" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="65a72832-a48c-4a7f-92b7-22974cd4d540" name="Default Changelist" comment="" />
@@ -154,8 +158,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614347920397</updated>
+      <workItem from="1638029226526" duration="209000" />
+      <workItem from="1641218135603" duration="8837000" />
+      <workItem from="1641267643099" duration="12198000" />
+      <workItem from="1641287580498" duration="599000" />
+      <workItem from="1641309661331" duration="318000" />
+      <workItem from="1641310020467" duration="564000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
