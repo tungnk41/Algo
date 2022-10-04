@@ -1,0 +1,35 @@
+     public static double getLevenshteinDistance(String _X, String _Y)
+    {
+		if( _X == null || _Y == null) return 0;
+		
+        String X = _X.toLowerCase();
+        String Y = _Y.toLowerCase();
+        
+        double result = 0.0;
+        int m = X.length();
+        int n = Y.length();
+        
+        int[][] T = new int[m + 1][n + 1];
+        for (int i = 1; i <= m; i++) {
+            T[i][0] = i;
+        }
+        for (int j = 1; j <= n; j++) {
+            T[0][j] = j;
+        }
+ 
+        int cost;
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                cost = X.charAt(i - 1) == Y.charAt(j - 1) ? 0: 1;
+                T[i][j] = Integer.min(Integer.min(T[i - 1][j] + 1, T[i][j - 1] + 1),
+                        T[i - 1][j - 1] + cost);
+            }
+        }
+		
+		int levenshteinDistance = T[m][n];
+		
+		double maxLength = Double.max(m, n);
+		result = (maxLength > 0 ) ? ((maxLength - levenshteinDistance) / maxLength) : (1.0);
+		
+        return result;
+    }
