@@ -1,4 +1,4 @@
-     public static double getLevenshteinDistance(String _X, String _Y)
+     public static int getLevenshteinDistance(String _X, String _Y)
     {
 		if( _X == null || _Y == null) return 0;
 		
@@ -31,5 +31,5 @@
 		double maxLength = Double.max(m, n);
 		result = (maxLength > 0 ) ? ((maxLength - levenshteinDistance) / maxLength) : (1.0);
 		
-        return result;
+        return (int) (result*100);
     }
